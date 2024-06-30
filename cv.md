@@ -2,6 +2,8 @@
 <img src="https://github.com/andrew-front-end/rsschool-cv/assets/97318127/ea147851-b9ce-48e2-919d-dabf6721e039)" width="270" height="388" />
 
 ## Contact Info:
+- Location: Russia, Tambov
+- Email: t.rainbow.ray@gmail.com
 - My VK: [t_rainbow_ray](https://vk.com/t_rainbow_ray)
 - My GitHub: [andrew-front-end](https://github.com/andrew-front-end)
 - Telegram: [s_andrew_dev](https://t.me/s_andrew_dev)
@@ -9,6 +11,8 @@
 ## About me:
 - I'm a perfectionist.
 - I know how to love my job and achieve results
+- I am attentive and diligent
+- I want to reach new heights in a new profession after 15 years of working as a musician in a symphonic orchestra
 ## Skills:
 - HTML
 - CSS
@@ -43,6 +47,7 @@ slidesPlugin()
 ## Experience:
 - [JS Maraphone code example](https://github.com/andrew-front-end/JS-maraphone)
 - [Homework from Skillbox](https://github.com/andrew-front-end/skillbox-lagoona)
+- and other works in my Github
 ## Education:
 + University: Tambov State Musical Pedagogical Institute them. S.V. Rachmaninov, Musical and instrumental art (orchestral string instruments: violin)
 + Courses:
