@@ -1,5 +1,5 @@
 # Andrew Smirnov
-<img src="https://github.com/andrew-front-end/rsschool-cv/assets/97318127/ea147851-b9ce-48e2-919d-dabf6721e039)" width="270" height="388" />
+<img src="https://github.com/andrew-front-end/rsschool-cv/assets/97318127/454df193-23ac-44c4-817f-af124891c2a6)" width="270" height="388" alt="Photo"/>
 
 ## Contact Info:
 - Location: Russia, Tambov
