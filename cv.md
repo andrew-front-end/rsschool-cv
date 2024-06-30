@@ -1,12 +1,15 @@
 # Andrew Smirnov
+<img src="https://github.com/andrew-front-end/rsschool-cv/assets/97318127/ea147851-b9ce-48e2-919d-dabf6721e039)" width="270" height="388" />
+
 ## Contact Info:
-- VK
-- GitHub
-- TG
-- Discord никнейм на дискорд-сервере rs school
+- My VK: [t_rainbow_ray](https://vk.com/t_rainbow_ray)
+- My GitHub: [andrew-front-end](https://github.com/andrew-front-end)
+- Telegram: [s_andrew_dev](https://t.me/s_andrew_dev)
+- Nickname in Discord: Andrey S (@andrew-front-end)
 ## About me:
-- Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-## Skills
+- I'm a perfectionist.
+- I know how to love my job and achieve results
+## Skills:
 - HTML
 - CSS
 - JS (in process)
@@ -14,20 +17,39 @@
 - Git
 - Figma
 ## Code Example:
-## Experience Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+```
+function slidesPlugin(activeSlide = 0) {
+  const slides = document.querySelectorAll('.slide')
+
+  slides[activeSlide].classList.add('active')
+
+  for (const slide of slides) {
+    slide.addEventListener('click', () => {
+      clearActiveClasses()
+
+      slide.classList.add('active')
+    })
+  }
+
+  function clearActiveClasses() {
+    slides.forEach((slide) => {
+      slide.classList.remove('active')
+    })
+  }
+}
+
+slidesPlugin()
+```
+## Experience:
+- [JS Maraphone code example](https://github.com/andrew-front-end/JS-maraphone)
+- [Homework from Skillbox](https://github.com/andrew-front-end/skillbox-lagoona)
 ## Education:
-+ University: Tambov Musical Institute, Civil Engineering major
++ University: Tambov State Musical Pedagogical Institute them. S.V. Rachmaninov, Musical and instrumental art (orchestral string instruments: violin)
 + Courses:
     - CS50 lectures
     - FreeCodeCamp
     - HTML Academy
     - Skillbox
-## English: (уровень английского языка, если была языковая практика, расскажите о ней)
-
-
-Рекомендации к составлению CV:
-
-в CV добавьте своё фото или аватарку. Фото предпочтительнее
-
-для выполненных проектов добавьте название проекта, ссылку на код проекта на гитхабе или ссылку на страницу проекта.
-Если выполненных проектов пока нет, в качестве первого проекта укажите само CV
+    - and etc.
+## English: B1-B2
+During my studies at the institute, I had to translate classes when teachers from other countries came
