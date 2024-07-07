@@ -44,6 +44,7 @@
 html {
   box-sizing: border-box;
 }
+
 *,
 *::before,
 *::after {
@@ -100,11 +101,25 @@ a {
   border: 15px solid white;
 }
 
+.header-container {
+  flex-wrap: wrap;
+}
+
+.rigth {
+  padding-top: 15%;
+}
 /* main styles */
 .main {
   padding-top: 7%;
 }
 
+.main-container {
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+}
 .main-title {
   font-weight: bolder;
   /* font-size: 26px; */
@@ -118,14 +133,6 @@ a {
 }
 
 /* section styles */
-.section:first-child {
-  width: 100%;
-}
-
-.rigth {
-  width: 50%;
-  float: left;
-}
 
 .section {
   width: 50%;
@@ -138,7 +145,7 @@ a {
 }
 
 .section-title {
-  font-style: bold;
+  font-weight: bold;
   /* font-size: 10px; */
   padding-bottom: 18px;
 }
@@ -159,4 +166,8 @@ ul.li {
 .footer-list {
   justify-content: space-between;
   align-items: center;
+}
+
+.rs {
+  width: 30%;
 }
