@@ -1,0 +1,162 @@
+/* fonts */
+@font-face {
+  font-family: 'Montserrat';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: local('MontserratRegular'), local('Montserrat-Regular'),
+    url(../fonts/Montserrat-Regular.woff) format('woff'),
+    url(../fonts/Montserrat-Regular.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+  src: local('MontserratSemibold'), local('Montserrat-Semibold'),
+    url(../fonts/Montserrat-SemiBold.woff) format('woff'),
+    url(../fonts/Montserrat-SemiBold.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  src: local('MontserratBold'), local('Montserrat-Bold'),
+    url(../fonts/Montserrat-Bold.woff) format('woff'),
+    url(../fonts/Montserrat-Bold.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 800;
+  src: local('MontserratExtrabold'), local('Montserrat-Extrabold'),
+    url(../fonts/Montserrat-ExtraBold.woff) format('woff'),
+    url(../fonts/Montserrat-ExtraBold.woff2) format('woff2');
+}
+
+/* common */
+
+html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  min-height: 100vh;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+a {
+  text-decoration: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.list-reset {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 15%;
+}
+
+/* header styles */
+.header__photo {
+  height: 250px;
+  justify-content: center;
+  width: 250px;
+  margin: 50px auto;
+  position: relative;
+  z-index: 2;
+  /* а надо? */
+}
+
+.header_img {
+  border-radius: 50%;
+  width: 100%;
+  /* -o-object-fit: cover; что это??? */
+  object-fit: cover;
+  border: 15px solid white;
+}
+
+/* main styles */
+.main {
+  padding-top: 7%;
+}
+
+.main-title {
+  font-weight: bolder;
+  /* font-size: 26px; */
+  padding-bottom: 13px;
+}
+
+.main-descr {
+  font-weight: bold;
+  /* font-size: 12px; */
+  padding-bottom: 30px;
+}
+
+/* section styles */
+.section:first-child {
+  width: 100%;
+}
+
+.rigth {
+  width: 50%;
+  float: left;
+}
+
+.section {
+  width: 50%;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+.section-title {
+  font-style: bold;
+  /* font-size: 10px; */
+  padding-bottom: 18px;
+}
+
+.section-text,
+ul.li {
+  font-weight: normal;
+  /* font-size: 6px; */
+}
+
+/* footer styles */
+.footer {
+  font-weight: normal;
+  /* font-size: 6px; */
+  padding-bottom: 45px;
+}
+
+.footer-list {
+  justify-content: space-between;
+  align-items: center;
+}
