@@ -1,2 +1,2 @@
 # rsschool-cv
-RSS 2025
+[Markdown CV](https://andrew-front-end.github.io/rsschool-cv/cv)
