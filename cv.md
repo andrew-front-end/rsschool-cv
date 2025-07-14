@@ -1,7 +1,7 @@
 
 # [rsschool-cv](https://andrew-front-end.github.io/rsschool-cv/)
 # Andrew Smirnov
-<img src="#" width="270" height="388" alt="Photo"/>
+<img src="https://github.com/andrew-front-end/rsschool-cv_2024/blob/rsschool-cv-html/assets/img/cv_avatar.jpg" width="270" height="388" alt="Photo"/>
 
 ## Contact Info:
 - Location: Russia, Tambov
