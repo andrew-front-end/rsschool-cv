@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20.63 205.87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-17);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-15);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-18);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-14);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-11);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-10);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-16);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-14 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-15 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-16 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-17 {
+        fill: url(#linear-gradient-12);
+      }
+
+      .cls-18 {
+        fill: url(#linear-gradient-13);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="2.53" y1="208.63" x2="2.53" y2="-11.93" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fbc7d4"/>
+      <stop offset="1" stop-color="#9796f0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="208.63" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" y1="208.63" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" y1="208.63" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" y1="208.63" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" y1="208.63" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" y1="208.63" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" y1="208.63" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" y1="208.63" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="18.09" x2="18.09" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-11" x1="18.09" y1="208.63" x2="18.09" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-12" x1="18.09" y1="208.63" x2="18.09" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-13" x1="18.09" y1="208.63" x2="18.09" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-14" x1="18.09" y1="208.63" x2="18.09" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-15" x1="18.09" y1="208.63" x2="18.09" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-16" x1="18.09" y1="208.63" x2="18.09" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-17" x1="18.09" y1="208.63" x2="18.09" y2="-11.93" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-18" x1="18.09" y1="208.63" x2="18.09" y2="-11.93" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="PRINT">
+    <g>
+      <g>
+        <path class="cls-14" d="M2.53,5.07C1.13,5.07,0,3.93,0,2.53S1.13,0,2.53,0s2.53,1.13,2.53,2.53-1.13,2.53-2.53,2.53Z"/>
+        <circle class="cls-1" cx="2.53" cy="27.63" r="2.53"/>
+        <circle class="cls-13" cx="2.53" cy="52.73" r="2.53"/>
+        <path class="cls-15" d="M2.53,80.37c-1.4,0-2.53-1.13-2.53-2.53s1.13-2.53,2.53-2.53,2.53,1.13,2.53,2.53-1.13,2.53-2.53,2.53Z"/>
+        <circle class="cls-10" cx="2.53" cy="102.94" r="2.53"/>
+        <circle class="cls-6" cx="2.53" cy="128.04" r="2.53"/>
+        <circle class="cls-11" cx="2.53" cy="153.14" r="2.53"/>
+        <path class="cls-16" d="M2.53,180.77c-1.4,0-2.53-1.13-2.53-2.53s1.13-2.53,2.53-2.53,2.53,1.13,2.53,2.53-1.13,2.53-2.53,2.53Z"/>
+        <circle class="cls-12" cx="2.53" cy="203.34" r="2.53"/>
+      </g>
+      <g>
+        <path class="cls-8" d="M18.09,5.07c-1.4,0-2.53-1.13-2.53-2.53s1.13-2.53,2.53-2.53,2.53,1.13,2.53,2.53-1.13,2.53-2.53,2.53Z"/>
+        <circle class="cls-7" cx="18.09" cy="27.63" r="2.53"/>
+        <circle class="cls-17" cx="18.09" cy="52.73" r="2.53"/>
+        <path class="cls-18" d="M18.09,80.37c-1.4,0-2.53-1.13-2.53-2.53s1.13-2.53,2.53-2.53,2.53,1.13,2.53,2.53-1.13,2.53-2.53,2.53Z"/>
+        <circle class="cls-5" cx="18.09" cy="102.94" r="2.53"/>
+        <circle class="cls-3" cx="18.09" cy="128.04" r="2.53"/>
+        <circle class="cls-9" cx="18.09" cy="153.14" r="2.53"/>
+        <path class="cls-2" d="M18.09,180.77c-1.4,0-2.53-1.13-2.53-2.53s1.13-2.53,2.53-2.53,2.53,1.13,2.53,2.53-1.13,2.53-2.53,2.53Z"/>
+        <circle class="cls-4" cx="18.09" cy="203.34" r="2.53"/>
+      </g>
+    </g>
+  </g>
+</svg>
